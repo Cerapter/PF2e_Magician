@@ -1,0 +1,30 @@
+Magician Changenotes:
+
+- De-British my English in a few places.
+- Typo in Slow Fall - feel -> fell
+- Now trained in both deception and perception - choice of trained skill not supported by tools. -1 chosen skill to balance
+- Look Out! No longer has a requirement that you are weilding a melee weapon.
+- Look Out! now specifies the centre of the emanation.
+- Speechless and Shared Experience no longer have an action symbol.
+- Remove errant space at end of A Lie is Contagious.
+- "100 Feet" was bold in Wrong Turn.
+- Made clear that the additional effects on Chose a Mark only last as long as captivated does.
+- Immunity to Choose a Mark begins as Choose a Mark is taken, not once captivated drops.
+- Encore now takes performance or deception check instead of occultism.
+- Encore reworded for new immunity rule.
+- More than a Stick text simplified.
+- Weightless blade now applies to all equipped weapons.
+- Firewalking now specifies "while this effect is active".
+- Master of BLades now specifies "while this effect is active".
+- Hyponosis now specifies what the save is against.
+- Fix typo in Lightning Strikes Twice save type.
+- That was a Close One! Requirements retagged Trigger.
+- How Many Shots? now works for any ranged strike that uses ammunition.
+- Upside Down renamed Topsy-Turvy.
+- But You're Me! Now specifies that the attack is only redirected if possible.
+- Wrong Turn is clearer that the chosen areas do not need to fit within the same 30 foot burst.
+- Acrobatic Flair changed, now grants a strike after succeeding an acrobatics check once per round -TODO: pathbuilder
+- Fire Breathing now specifies a rank for Breath Fire, and scales with level -TODO: pathbuilder
+- Was That Aimed at Me? now appliesd a penalty to enemies attacking you, rather than providing a bonus to your AC. -TODO: pathbuilder
+- Escapology now only applies to acrobatics and athletics checks to escape. -TODO: pathbuilder
+- TODO: Topsy Turvy needs a Saving Throw listed in text, but there is no space, so maybe just pathbuilder
